@@ -1,0 +1,4 @@
+Backwards and forwards compatible with HTML
+Able to be rendered by all XML enabled browsers
+Ability to use tools and applications that rely on the XML Document Object Model
+XML quality standards
